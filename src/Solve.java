@@ -38,7 +38,7 @@ public class Solve {
             System.out.println("29. Ejercicios Combinados - Ejercicio 9");
             System.out.println("30. Ejercicios Combinados - Ejercicio 10");
             System.out.println("31. Salir");
-            System.out.print("Selecciona una opción: ");
+            System.out.print("Selecciona una opciónn: ");
             option = scanner.nextInt();
 
             switch (option) {
